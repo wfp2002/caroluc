@@ -59,7 +59,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.markdown("<div class='title'>Lucas vs Carol</div>", unsafe_allow_html=True)
+st.markdown("<div class='title'>CAROLUC Game</div>", unsafe_allow_html=True)
 
 # Espaços reservados para os elementos dinâmicos
 contador_placeholder = st.empty()
